@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @casualcrackers
-- 👀 I’m interested in guitar and coding
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m @Cdavison-development
+- 👀 I’m interested in machine learning and software development
+- 🌱 I’m currently studying computer science
 
 - 📫 How to reach me ... put your arms out and grasp 
 
